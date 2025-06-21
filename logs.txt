@@ -1,1 +1,5 @@
-
+BitMap = 0x298668
+SetInsert = 0xDA4E70
+WhitelistedPages = 0x297EC8
+PageHash = 0x67AA0809
+ByteHash 0xC6
