@@ -1,6 +1,7 @@
-BitMap = nil
-SetInsert = nil
-WhitelistedPages = nil
-PageHash = nil
-ByteHash = nil
+BitMap = 0x2B6660
+SetInsert = 0xD868E0
+WhitelistedPages = 0x2A2280
+PageHash = 0xBE1AEBD1
+ByteHash = 0x6D
+YaraDetection = 0x2B87EC
 [+} Failed to load module
